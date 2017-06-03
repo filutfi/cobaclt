@@ -1,0 +1,250 @@
+# Webalizer V2.23-05 Incremental Data - 04/12/2016 19:23:12
+2016 4 12 19 23 12
+359 359 13 43 0 0 8645957 194 13 1
+3 3 39 7 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+42 42 1730993 1 42 2
+98 98 1812379 6 50 4
+115 115 3673689 2 78 3
+73 73 1076001 1 22 3
+17 17 328103 1 2 1
+14 14 24792 3 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+14 14 534162 11
+62 62 1487710 34
+22 22 815933 15
+22 22 749007 14
+15 15 245178 4
+14 14 366687 7
+38 38 1310354 25
+32 32 559172 8
+50 50 159613 8
+11 11 73420 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+18 18 26186 13
+31 31 949440 25
+3 3 135334 3
+15 15 733247 15
+12 12 500514 12
+0
+0
+0
+359
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/k9289711/controllers/TitleboxController.php
+0 13 0 41322 0 0
+/home/k9289711/config/params.php
+0 5 0 683 0 0
+/home/k9289711/controllers/OfficeController.php
+0 2 0 6117 0 0
+/home/k9289711/views/cso/view.php
+0 1 36447856 909 0 0
+/home/k9289711/controllers/SosmedController.php
+0 6 0 28885 0 0
+/home/k9289711/config/db.php
+0 2 0 422 0 0
+/home/k9289711/public_html/image/icon.png
+0 1 36447584 534 0 0
+/home/k9289711/controllers/AboutController.php
+0 2 0 6090 0 0
+/home/k9289711/config/web.php
+0 10 0 22066 0 0
+/home/k9289711/views/posts/
+0 1 0 1986 0 0
+/home/k9289711/views/cso/
+0 4 0 3467 2 0
+/home/k9289711/views/frontend/
+0 1 0 12236 1 0
+/home/k9289711/views/cso/_form.php
+0 5 0 6899 0 0
+/home/k9289711/controllers/LogoController.php
+0 2 36448512 9387 0 0
+/home/k9289711/views/logo/
+0 7 36448112 6153 0 0
+/home/k9289711/views/sosmed/_form.php
+0 11 0 14964 0 0
+/home/k9289711/config/console.php
+0 1 0 1057 0 0
+/home/k9289711/controllers/CsoController.php
+0 5 18446744073709551615 26533 0 0
+/home/k9289711/views/about/_form.php
+0 1 0 543 0 0
+/home/k9289711/views/layouts/main.php
+0 9 0 49913 0 0
+/home/k9289711/models/TbCso.php
+0 4 18446744073709551615 3104 0 0
+/home/k9289711/views/about/
+0 3 48 1992 0 0
+/home/k9289711/views/logo/view.php
+0 1 36447728 917 0 0
+/home/k9289711/public_html/uploads/logo.png
+0 1 36448240 3444 0 0
+/home/k9289711/views/about/update.php
+0 2 0 993 0 0
+/home/k9289711/controllers/PostsController.php
+0 3 0 20178 0 0
+/home/k9289711/controllers/SiteController.php
+0 2 0 6288 0 0
+/home/k9289711/public_html/fadmin/
+0 1 0 57 0 0
+/home/k9289711/views/sosmed/
+0 12 0 11683 1 0
+/home/k9289711/models/ContactForm.php
+0 3 36449248 4680 0 0
+/home/k9289711/models/LogoNama.php
+0 4 36448656 3143 0 0
+/home/k9289711/models/TbSosmed.php
+0 5 0 3791 0 0
+/home/k9289711/controllers/UsersController.php
+0 1 36447280 3221 0 0
+/home/k9289711/views/front/detail.php
+0 6 36448928 91358 0 0
+/home/k9289711/views/front/
+0 159 0 7821826 9 5
+/home/k9289711/views/office/update.php
+0 2 0 1001 0 0
+/home/k9289711/views/posts/_form.php
+0 7 0 37055 0 0
+/home/k9289711/views/front/post_kat.php
+0 12 36447504 175014 0 0
+/home/k9289711/views/logo/_form.php
+0 2 36448384 2248 0 0
+/home/k9289711/views/layouts/main_front.php
+0 31 0 205145 0 0
+/home/k9289711/views/cso/create.php
+0 1 36447984 411 0 0
+/home/k9289711/models/Posts.php
+0 2 0 4268 0 0
+/home/k9289711/views/office/
+0 6 0 3974 0 0
+# End Of Table - urls
+# -sites- (monthly)
+210.subnet125-164-97.speedy.telkom.net.id
+0 3 3 3946 0 0
+-
+36.71.144.62
+0 6 6 8544 0 0
+-
+36.71.144.55
+0 9 9 19542 0 0
+-
+36.84.71.185
+0 17 17 328103 1 1460337522
+/home/k9289711/views/front/
+36.71.144.50
+0 52 52 1410233 1 1460098131
+/home/k9289711/public_html/fadmin/
+223.subnet125-164-99.speedy.telkom.net.id
+0 73 73 1076001 3 1460277783
+/home/k9289711/views/logo/
+36.71.144.60
+0 5 5 12302 0 0
+-
+180.247.135.126
+0 65 65 1762929 3 1460145675
+/home/k9289711/views/cso/
+36.84.69.235
+0 2 2 83540 1 1460078801
+/home/k9289711/views/front/
+36.71.144.7
+0 104 104 3095843 2 1460175275
+/home/k9289711/views/front/
+36.71.144.42
+0 6 6 256563 1 1460080063
+/home/k9289711/views/front/
+ip-229-72-1.masterweb.net
+0 11 11 577846 1 1460241285
+/home/k9289711/views/front/
+36.84.69.166
+0 6 6 10565 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+210.subnet125-164-97.speedy.telkom.net.id
+0 3 3 3946 0 0
+-
+36.71.144.62
+0 6 6 8544 0 0
+-
+36.71.144.60
+0 5 5 12302 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+k9289711
+0 359 359 8645957 12 1460337522
+# End Of Table - usernames

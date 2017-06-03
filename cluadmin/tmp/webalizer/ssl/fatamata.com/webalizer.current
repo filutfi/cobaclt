@@ -1,0 +1,193 @@
+# Webalizer V2.23-05 Incremental Data - 03/14/2017 10:14:03
+2017 3 14 10 14 3
+36 15 19 2 1 2 932705 15 15 0
+4 1 8 1 14
+8 2 46 6 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 1 23 3 1 1
+4 1 23 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 1 23 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 6 466318 8 6 6
+4 4 466272 4 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 1 23 1
+4 1 23 1
+0 0 0 0
+0 0 0 0
+4 1 23 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 349704 3
+0 0 0 0
+1 1 116568 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+8 2 46 2
+0 0 0 0
+0 0 0 0
+4 1 23 1
+1 1 116568 1
+2 2 233136 2
+5 2 116591 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 8 7814716426037852777 932544 8 0
+/robots.txt
+0 7 0 161 0 0
+# End Of Table - urls
+# -sites- (monthly)
+174.138.88.229
+0 1 1 116568 1 1489481099
+/
+crawl-66-249-79-110.googlebot.com
+0 2 0 0 1 1489413750
+-
+45.55.192.81
+0 1 1 116568 1 1489480629
+/
+crawl-66-249-71-90.googlebot.com
+0 4 1 23 1 1488330303
+-
+crawl-66-249-79-140.googlebot.com
+0 4 0 0 2 1489414962
+-
+crawl-66-249-71-88.googlebot.com
+0 2 0 0 1 1488861879
+-
+crawl-66-249-77-28.googlebot.com
+0 3 1 23 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u3bef4e4cbbfa43d68890146c4be15604u-digitalocean
+0 1 1 116568 1 1489433940
+/
+crawl-66-249-79-144.googlebot.com
+0 2 1 23 1 1488832323
+-
+138.197.18.171
+0 1 1 116568 1 1489480323
+/
+crawl-66-249-79-114.googlebot.com
+0 2 1 23 0 0
+-
+crawl-66-249-77-26.googlebot.com
+0 3 0 0 1 1489167377
+-
+jobqueue-listener.jobqueue.netcraft.com-u11df8b3f521f484fa2a5e35b9916a462u-digitalocean
+0 1 1 116568 1 1489432415
+/
+174.138.80.237
+0 1 1 116568 1 1489435461
+/
+crawl-66-249-79-148.googlebot.com
+0 1 1 23 0 0
+-
+138.197.41.53
+0 1 1 116568 1 1489486443
+/
+crawl-66-249-77-27.googlebot.com
+0 3 1 23 0 0
+-
+159.203.86.48
+0 1 1 116568 1 1489429719
+/
+crawl-66-249-71-86.googlebot.com
+0 2 1 23 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+174.138.88.229
+0 1 1 116568 1 1489481099
+/
+45.55.192.81
+0 1 1 116568 1 1489480629
+/
+138.197.18.171
+0 1 1 116568 1 1489480323
+/
+138.197.41.53
+0 1 1 116568 1 1489486443
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 36
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 28
+Netcraft SSL Server Survey - contact info@netcraft.com
+0 8
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
